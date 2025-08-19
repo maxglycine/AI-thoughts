@@ -1,0 +1,2 @@
+# AI-thoughts
+Practicum insights
